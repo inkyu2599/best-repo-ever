@@ -1,3 +1,3 @@
 # best-repo-ever
 first commit
-new branch가 추가한 문장
+new-branch-2가 같은행에 다른 문장을 추가함
